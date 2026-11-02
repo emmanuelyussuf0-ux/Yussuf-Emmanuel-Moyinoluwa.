@@ -17,7 +17,9 @@ Welcome to my programming portfolio! This repository documents my programming jo
 - Improve my knowledge of Java, Python, HTML, CSS and JavaScript.
 
 ## My Projects
-My projects and practical exercises will be added here as I progress.
+### Programming Projects
 
----
-More projects coming soon!
+- Week 1: Basic Python programming exercises.
+- Week 2: Python programming practice and problem-solving.
+- Week 3: Programming exercises and practical tasks.
+More projects will be added as I continue learning.
